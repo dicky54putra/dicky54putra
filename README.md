@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kopisisasemalem" target="blank"><img src="https://img.shields.io/twitter/follow/kopisisasemalem?logo=twitter&style=for-the-badge" alt="kopisisasemalem" /></a> </p>
 
-- 🔭 I’m currently working on [madeindonesia](https://madeindonesia.com/) and made open ource [lima](https://github.com/dicky54putra/create-lima) boilerplate
+- 🔭 I’m currently working on [madeindonesia](https://madeindonesia.com/) and made open source [lima](https://github.com/dicky54putra/create-lima) boilerplate
 
 - 🌱 I’m currently learning **reactjs, node, mongodb, expressjs**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://github.com/dicky54putra](https://github.com/dicky54putra)
 
-- ⚡ Fun fact **i think i'm hard worker and like to joke**
+- ⚡ Fun fact **i think i'm hard worker and like to jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
